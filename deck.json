@@ -1,0 +1,319 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "1357172c-1266-11ec-a09e-90fa31f2f58d",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-0e0434b585b4c2164b020e1377b9abb934d28921.jpg",
+                "paste-1d7ceb3d8fa216a677ceed67bab4fe776ddcfb71.jpg",
+                "paste-4f6d52f6ed9f9ad77ecd3bec8a002b08b3333e05.jpg",
+                "paste-9a687244defed8f0a76e84a045b8bfb47ad32ba0.jpg",
+                "paste-c847cb1f9105175b0d4ac1d39775e9ff21ceec77.jpg",
+                "paste-ebc72ad6660119e24b4712bf7137330fe2036cb8.jpg",
+                "paste-fc863188504ed03d462edc3d93b267fac30dec55.jpg"
+            ],
+            "mid": 1602236504918,
+            "name": "09/05 CVS Examination",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "-During the CVS exam how would you position and expose the patient?<div>{{c1::<span style=\"color: rgb(64, 64, 64);\">Position\npatient at 45 degrees, exposed to the waist</span>}}</div><div><br></div><div>General Inspection:</div><div><br></div><div>What might you be looking for in terms of patients breathing?</div><div>{{c1::Use of accessory muscles while breathing or dyspnoea}}<br></div><div><br></div><div>What might you be looking for at the patients bedside?</div><div>{{c1::GTN spray, ECG leads, telemetery box, oxygen, nasal prongs, mask , intubation etc.}}<br></div><div><br></div><div>What CVS condition is pallor associated with?&nbsp;{{c1::Anaemia}}</div><div>What CVS condition is cachexia associated with?&nbsp;{{c1::Congestive cardiac failure}}<br></div><div><br></div><div>What three chronic lifelong syndromes can be identified during the general cvs inspection and what are the signs of each</div><div>{{c1::-<span style=\"color: rgb(64, 64, 64);\">Marfans</span><span style=\"color: rgb(64, 64, 64);\"> Syndrome\n(Tall, long arm span, high arched palate)</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">-Downs Syndrome\n(flattened appearance to face, low set small ears, short neck, protruding\ntongue)</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">-Turners\nSyndrome (Webbed neck)</span>}}<br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "e3```q-etd",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CVS examination of the hands:<div><br></div><div><img src=\"paste-c847cb1f9105175b0d4ac1d39775e9ff21ceec77.jpg\"><br></div><div>What is this?{{c1::xanthoma}}</div><div>What condition is it a sign of?{{c1::Hyperlipidemia}}</div><div>Where else on the body might you find it&nbsp;{{c1::Achilles tendon}}</div><div><br></div><div>What is the difference between Janeway Lesions and Osler Nodes?</div><div>{{c1::Osler nodes are raised and tender, while Janeway lesions are more erythymous and are not tender}}<br></div><div><br></div><div>What condition are they both a sign of?&nbsp;{{c1::Infective endocarditis}}</div><div><br></div><div>Finger clubbing is a sign of&nbsp;&nbsp;{{c1::<span style=\"color: rgb(64, 64, 64);\">cyanotic\ncongenital heart disease</span>}} and&nbsp;{{c1::<span style=\"color: rgb(64, 64, 64);\">infective\nendocarditis</span>}}</div><div><br></div><div>What is the other sign you would look for in CVS examination of the hands.</div><div>{{c1::Splinter hemorrhages}}<br></div><div><br></div><div>What is it a sign of ?&nbsp;</div><div>{{c1::<span style=\"color: rgb(64, 64, 64);\">infective\nendocarditis, trauma, vasculitis</span>}}</div>",
+                        ""
+                    ],
+                    "guid": "qh3uY0ObxY",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pulse Examination<div><br></div><div>How do you take someone's pulse?</div><div>{{c1::Find&nbsp;<span style=\"color: rgb(64, 64, 64);\">Radial artery\nWITH THREE FINGERS</span>}}</div><div><br></div><div>What constitutes Bradycardia?&nbsp;{{c1::&lt;60}}bpm</div><div>What constitutes Tachycardia?&nbsp;{{c1::&gt;100}}bpm<br></div><div><br></div><div>What is a radiofemoral delay indicative of?&nbsp;{{c1::coarctation of the aorta}}</div><div><br></div><div>What is a pulse deficit?&nbsp;{{c1::difference between apical and radial rates}}</div><div><br></div><div>What it is it indicative of?{{c1::Atrial fibliration}}</div><div><br></div><div>In a patient with pulse deficit you must auscultate instead of taking radial pulse.</div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "x{~J9;fKsL",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carotid Pulse<div><br></div><div>{{c1::volume }} is assessed at carotid pulse (hint: low value when dehydrated)<br></div><div><br></div><div>Character:</div><div>-{{c1::<span style=\"color: rgb(64, 64, 64);\">sinus\narrhythmia</span>}}-<span style=\"color: rgb(64, 64, 64);\">cyclical\nvariation in pulse rate with respiration</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">-</span>{{c1::collapsing pulse}}-&nbsp;<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">disappears\nmomentarily on lifting arm- indicative of&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">aortic\nregurgitation</span>}}</div><div><br></div><div>-{{c1::slow rising pulse}}-&nbsp;<b>delayed up-stroke - indicative of&nbsp;</b>{{c1::aortic stenosis}}</div><div><br></div><div>-{{c1::Pulsus ALternans}}-<b>pulse with alternating strong and weak beats- indicative of&nbsp;</b>{{c1::left ventricular failure}}</div><div><br></div><div>-{{c1::Jerky pulse}}- pulse<span style=\"color: rgb(77, 81, 86);\">&nbsp;with a double beat- idicative of&nbsp;</span>{{c1::<b>Hypertrophic obstructive cardiomyopathy</b>}}</div><div><br></div><div>What is a carotid bruit?</div><div>{{c1::<b>a vascular sound usually heard with a stethoscope over the carotid artery</b>}}</div><div><br></div><div>What is it indicative of?</div><div>{{c1::<span style=\"color: rgb(64, 64, 64);\">stenosis –\natherosclerotic disease</span>}}</div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "ejJXeQnhWU",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Blood Pressure<div><br></div><div>Normal-{{c1::•<span style=\"color: rgb(64, 64, 64);\">Normal\n&lt;130/85</span>}}</div><div>At what rate do you deflate the thingy? {{c1::•<span style=\"color: rgb(64, 64, 64);\">2-4 </span>}}<span style=\"color: rgb(64, 64, 64);\">mmHg/s</span></div><div>What do you do if there's a difference of&nbsp;<span style=\"color: rgb(64, 64, 64);\">&lt;10 mmHg between arms pressure?&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">Record the\nhigher reading</span>}}&nbsp;</div><div><br></div><div>What contitutes postural hypotension?&nbsp;{{c1:<span style=\"color: rgb(64, 64, 64);\">– fall in\nsystolic BP of &gt;20mmHG on standing</span>}}</div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "AaPidUtos;",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Face Examination<div><br></div><div>What is it, what CVS condition could it be indicative of.</div><div><br></div><div><img src=\"paste-1d7ceb3d8fa216a677ceed67bab4fe776ddcfb71.jpg\"><br></div><div>{{c1::<span style=\"color: rgb(64, 64, 64);\">Corneal arcus, high bp, high cholestrol</span>}}</div><div><img src=\"paste-fc863188504ed03d462edc3d93b267fac30dec55.jpg\"><br></div><div>{{c1::<span style=\"color: rgb(64, 64, 64);\">Xanthelasmata, high bp high cholestrol</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>}}<br></div><div><img src=\"paste-ebc72ad6660119e24b4712bf7137330fe2036cb8.jpg\"><br></div><div>{{c1::•<span style=\"color: rgb(64, 64, 64);\">High arched\npalate (</span><span style=\"color: rgb(64, 64, 64);\">Marfan</span><span style=\"color: rgb(64, 64, 64);\">’</span><span style=\"color: rgb(64, 64, 64);\">s syndrome)</span>}}<br></div><div><img src=\"paste-0e0434b585b4c2164b020e1377b9abb934d28921.jpg\"><br></div><div>{{c1::•<span style=\"color: rgb(64, 64, 64);\">Malar flush\n(mitral stenosis)</span>}}<br></div><div><img src=\"paste-9a687244defed8f0a76e84a045b8bfb47ad32ba0.jpg\"><br></div><div>{{c1::•<span style=\"color: rgb(64, 64, 64);\">Cyanosis, cyanotic heart disease</span>}}<br></div><div><br></div><div><br></div><div>Palor indicates&nbsp;{{c1::anaemia}}</div><div>Dental caries is a risk factor for&nbsp;{{c1::infective endocarditis}}</div><div>Jaundice can mean there is {{c1::haemolysis from a synthetic heart valve}}<br></div>",
+                        ""
+                    ],
+                    "guid": "BkYwjb5ZK<",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span style=\"color: rgb(117, 17, 74);\">Jugular Venous Pressure, reflects&nbsp;</span>{{c1::right atrial pressure}}<div><span style=\"color: rgb(117, 17, 74);\"><br></span></div><div><span style=\"color: rgb(117, 17, 74);\">How would you set a patient up to check JVP?</span></div><div>{{c1::•<span style=\"color: rgb(64, 64, 64);\">Patient at 45\ndegrees</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Good lighting</span></div><div>Make sure you can see IJV}}</div><div><br></div><div>What are you looking for?</div><div><br></div><div>1.{{c1::height in cm that top of IJV is above sternal angle}}&nbsp;</div><div>2.{{c1::A,C and V waves}}</div><div><br></div><div><b>JVP VISIBLE BUT NOT PALPABLE</b></div><div><b><br></b></div><div>Name 3 conditions that are indicated if JVP is above 3cm (3/5)</div><div>{{c1::•<span style=\"color: rgb(64, 64, 64);\">RV failure (</span><span style=\"color: rgb(64, 64, 64);\">nb</span><span style=\"color: rgb(64, 64, 64);\">)</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Tricuspid\nregurgitation</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Pericardial\neffusion</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">SVC\nobstruction</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Fluid overload\n(</span><span style=\"color: rgb(64, 64, 64);\">nb</span>}}<br></div><div><br></div><div>A-wave is&nbsp;{{c1::Right atrium contracting}}</div><div>C-wave is&nbsp;{{c1::Right ventricle contracting}}</div><div>V-wave is&nbsp;{{c1::Emptying finished ventricles relax}}</div><div><br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "z#P<vhMBdz",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Praecordium:{{c1::<span style=\"color: rgb(32, 33, 36);\">&nbsp;</span><b>the portion of the body over the heart and lower chest</b>}}<div><br></div><div>On the praecordium there may be scars&nbsp;</div><div>Match the condition/ procedure to the type of scar</div><div><br></div><div>Median sternotomy, lateral thoracotomy, infraclavicular</div><div><br></div><div>Coronary artery bypass graft&nbsp;{{c1::ms}}</div><div>Pacemaker insertion {{c1::ic}}</div><div>lobectomy {{c1::lt}}</div><div>Complications from TB {{c1::lt}}</div><div>Valve replacement {{c1::ms}}</div><div>pneumonectomy&nbsp;{{c1::LT}}</div><div><br></div><div>What is pectus excavatum?&nbsp;{{c1::the breastbone sunken into chest}}</div><div><br></div><div>Where is the normal location for the apex beat?</div><div>{{c1::<span style=\"color: rgb(64, 64, 64);\">5</span><span style=\"color: rgb(64, 64, 64);\">th</span><span style=\"color: rgb(64, 64, 64);\"> Intercostal\nspace in midclavicular line (generally you'll find it by placing three fingers of right hand on chest till you find lowermost palpable beat)</span>}}</div><div><br></div><div>Character of Apex Beat</div><div><br></div><div>A heaving (very strong) beat can be indicative of conditions like fluid overload or cardiac hypertrophy but what is a left parasternal heave in particular indicative of?&nbsp;{{c1::<span style=\"color: rgb(64, 64, 64);\">Right\nventricular hypertrophy – </span><span style=\"color: rgb(64, 64, 64);\">e.g.</span><span style=\"color: rgb(64, 64, 64);\"> secondary to\nlung disease</span>}}</div><div><br></div><div>What are thrills?&nbsp;{{c1::murmurs that are palpable}}</div><div>Systolic thrill can mean&nbsp;{{c1::<span style=\"color: rgb(64, 64, 64);\">aortic\nstenosis, mitral </span><span style=\"color: rgb(64, 64, 64);\">regurg</span>}}</div><div>Diastolic thrill can mean&nbsp;{{c1::<span style=\"color: rgb(64, 64, 64);\">mitral\nstenosis</span>}}</div><div><br></div><div>Palpate for <span style=\"color: rgb(64, 64, 64);\">Pacemaker box\nor defibrillator</span></div>",
+                        ""
+                    ],
+                    "guid": "c1ZuM3g`EY",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><span style=\"color: rgb(117, 17, 74);\">Praecordium</span><span style=\"color: rgb(117, 17, 74);\">: Auscultation of heart sounds&nbsp;&nbsp;</span><br></div><div><br></div><div>•<span style=\"color: rgb(64, 64, 64);\">Bell –&nbsp;</span>{{c1::low}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;pitched sounds – careful not to put pressure on the bell</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Diaphragm –</span>\n{{c1::high}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;pitched sounds</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Begin with\nbell at&nbsp;</span>{{c1::Mitral}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;-</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::Tricuspid}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;-</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::Pulmonary}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;-</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::Aortic}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;areas</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Then diaphragm\nat&nbsp;</span>{{c1::Mitral}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;-</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::Tricuspid}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;-</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::Pulmonary}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;-</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::Aortic}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;areas</span></div>\n<div><br></div><div>Where is every place</div><div>•<span style=\"color: rgb(64, 64, 64);\">Mitral:&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">midclavicular line, 5</span><span style=\"color: rgb(64, 64, 64);\">th</span><span style=\"color: rgb(64, 64, 64);\"> intercostal\nspace</span>}}</div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Tricuspid:&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">left of sternal boarder, 5</span><span style=\"color: rgb(64, 64, 64);\">th</span><span style=\"color: rgb(64, 64, 64);\"> intercostal\nspace</span>}}</div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Pulmonary:&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">left of sternal boarder, 2</span><span style=\"color: rgb(64, 64, 64);\">nd</span><span style=\"color: rgb(64, 64, 64);\"> intercostal\nspace</span>}}</div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Aortic:&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">right\nof sternal boarder, 2</span><span style=\"color: rgb(64, 64, 64);\">nd</span><span style=\"color: rgb(64, 64, 64);\"> intercostal\nspace</span>}}</div>",
+                        ""
+                    ],
+                    "guid": "FHr{LmE;)Z",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b><u>Heart Sounds</u></b><div><b><u><br></u></b></div><div><b>1st heart sounds</b>-&nbsp;</div><div>Made by {{c1::mitral}} and {{c1::tricuspid}} valve closure</div><div><br></div><div>What part of stethescope do you hear it with?&nbsp;{{c1::bell and diaphragm}}</div><div><br></div><div>Where is it heard loudest?&nbsp;{{c1::apex}}</div><div><br></div><div>Loud heart sound can indicate</div><div>-{{c1::tachy}}cardia</div><div>-{{c1::mitral stenosis}}</div><div>-Left atrial myxoma, what is a myxoma?&nbsp;{{c1::benign (non-cancerous) growth in the heart}}</div><div><br></div><div>Soft heart sound can indicate</div><div>-Mitral&nbsp;{{c1::regurgitation}}</div><div>-{{c1::<span style=\"color: rgb(64, 64, 64);\">Myocardial\ninfarction</span>}}</div><div>-{{c1::Left}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;bundle\nbranch block</span></div>\n<div>-{{c1::First degree}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;heart block</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div>",
+                        ""
+                    ],
+                    "guid": "RjRYA8q[+k",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>2nd Heart Sound</b><div><b><br></b></div><div>Made by {{c1::A<span style=\"color: rgb(64, 64, 64);\">ortic</span>}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">and&nbsp;</span>{{c1::Pulmonary}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">valve closure</span></div><div><font color=\"#404040\"><br></font></div><div><font color=\"#404040\">What is splitting of the second heart sound?</font></div><div>{{c1::The aortic valve closes slightly before the pulmonary valve so there is a technically two sounds in the second heart sound, A2, P2}}<font color=\"#404040\"><br></font><div><br></div><div>Where can you hear the splitting most well?</div></div><div>{{c1::•<span style=\"color: rgb(64, 64, 64);\">During\ninspiration at </span><span style=\"color: rgb(64, 64, 64);\">left of\nsternal boarder, 2</span><span style=\"color: rgb(64, 64, 64);\">nd</span><span style=\"color: rgb(64, 64, 64);\"> intercostal\nspace</span>}}</div><div><br></div><div>What does a wide physiologic splitting mean? and what does it indicate?</div><div>{{c1::occurs during inspiration, A2P2 interval widens further}}<br></div><div>{{c1::<b>Right bundle branch block</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;</span>}}</div><div><br></div><div>What does a wide fixed splitting mean? and what does it indicate?<br></div><div>{{c1::occurs during inspiration and expiration, A2P2 remains very wide}}</div><div>{{c1::<span style=\"color: rgb(64, 64, 64);\">atrial septal\ndefect, right heart failure</span>}}</div><div><br></div><div>What does reversed splitting mean? and what does it indicate?<br></div><div>{{c1::A2 follows P2}}<br></div><div>{{c1::Left bundle branch block, aortic stenosis}}<br></div>",
+                        ""
+                    ],
+                    "guid": "lrr>qZuP&V",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Third Heart Sound</b><div><b><br></b></div><div><div>•{{c1::Low}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;pitched\n(best heard with the&nbsp;</span>{{c1::Bell}}<span style=\"color: rgb(64, 64, 64);\">) sound occurring in mid-diastole</span></div></div><div><br></div><div>{{c1::Gallop}} rhythm</div><div><br></div><div><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Lub</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">&nbsp; </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">du</span><span style=\"color: red; font-style: italic;\">bub/</span><span style=\"color: rgb(64, 64, 64);\">kentucky</span><br></div><div><span style=\"color: red; font-style: italic;\"><br></span></div><div><div><span style=\"color: rgb(64, 64, 64);\">Originates in\nventricle from&nbsp;</span>{{c1::rapid ventricular filling}}</div></div><div><br></div><div><span style=\"color: rgb(64, 64, 64);\">May be normal\nin &lt;</span>{{c1::35yrs&nbsp;}}<br></div><div><br></div><div>Indicative of&nbsp;</div><div><div>1.{{c1::congestive\ncardiac failure}}</div>\n<div>2.<span style=\"color: rgb(64, 64, 64);\">Mitral&nbsp;</span>{{c1::regurgitation}}</div>\n<div>3.<span style=\"color: rgb(64, 64, 64);\">Ventricular </span><span style=\"color: rgb(64, 64, 64);\">septal</span><span style=\"color: rgb(64, 64, 64);\"> defect</span></div>\n<div>4.<span style=\"color: rgb(64, 64, 64);\">Atrial</span><span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">septal</span><span style=\"color: rgb(64, 64, 64);\"> defect (right\nventricular S3)</span></div>\n<div>5.<span style=\"color: rgb(64, 64, 64);\">Aortic&nbsp;</span>{{c1::regurgitation}}</div></div>",
+                        ""
+                    ],
+                    "guid": "N+!0A:TavX",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Fourth Heart Sound</b><div><b><br></b></div><div><div>•<span style=\"color: rgb(64, 64, 64);\">Late diastole</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Immediately\nbefore S1</span></div>\n<div>•Due to a {{c1::Stiff\nventricle}}</div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Abnormal at\nany age</span></div>\n<div>•<span style=\"color: red; font-style: italic;\">be</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">lub</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">&nbsp; dup&nbsp; </span><span style=\"color: red; font-style: italic;\">be</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">lub</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">&nbsp;&nbsp; dup</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Cadence\nsimilar to “Tennessee…Tennessee”</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">Indicative of&nbsp;</span></div><div><div>1.{{c1::Hyper}}<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">tension</span></div>\n<div>2.<span style=\"color: rgb(64, 64, 64);\">Ischaemic</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::cardiomyopathy}}</div>\n<div>3.{{c1::Hypertrophic}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;cardiomyopathy (HCM)</span></div>\n<div>4.{{c1::Aortic}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">stenosis</span></div></div>",
+                        ""
+                    ],
+                    "guid": "zv#ymY:|.a",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Miscellanous heart sound stuff</b><div><div>•<span style=\"color: rgb(64, 64, 64);\">Can be\ndifficult to distinguish S1 and S2: feel carotid pulse during auscultation:</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp; </span><span style=\"color: rgb(64, 64, 64);\">Carotid\nimpulse occurs just </span><u><span style=\"color: rgb(64, 64, 64);\">after</span></u><span style=\"color: rgb(64, 64, 64);\"> S1</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp; S2 occurs </span><u><span style=\"color: rgb(64, 64, 64);\">after</span></u><span style=\"color: rgb(64, 64, 64);\"> the </span><span style=\"color: rgb(64, 64, 64);\">impulse</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(117, 17, 74);\">Prosthetic heart valve sounds</span><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div>•<span style=\"color: rgb(64, 64, 64);\">Mechanical\nvalves (vs biological)</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Clicking /\nmetallic quality</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Crisp sound</span></div></div>",
+                        ""
+                    ],
+                    "guid": "bu<.IGQ-MM",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Murmurs&nbsp;</b><div><br></div><div>What are the 5 characteristics of a murmur</div><div>{{c1::timing, site of maximal intensity, loudness, radiation, dynamic movements}}<br></div>",
+                        ""
+                    ],
+                    "guid": "m*[1yT^>Ep",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Timing of Murmurs</b><div><b><br></b></div><div><u>Systolic</u></div><div>Match the systolic murmur type to the conditions it indicates</div><div><div><span style=\"color: rgb(64, 64, 64);\">Pansystolic, Ejection Systolic, Late Systolic</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">Aortic\nstenosis</span>{{c1::ES}}</div>\n<div><span style=\"color: rgb(64, 64, 64);\">Pulmonary\nstenosis</span>{{c1::ES}}</div></div><div><div><span style=\"color: rgb(64, 64, 64);\">Tricuspid\nregurgitation</span>{{c1::PS}}</div></div><div><span style=\"color: rgb(64, 64, 64);\">Mitral valve\nprolapse</span>{{c1::LS}}<br></div><div><span style=\"color: rgb(64, 64, 64);\">Mitral\nregurgitation</span>{{c1::PS}}<br></div><div><span style=\"color: rgb(64, 64, 64);\">Ventricular\nseptal defect</span>{{c1::PS}}<br></div><div><span style=\"color: rgb(64, 64, 64);\">HOCM&nbsp;</span>{{c1::ES}}</div>\n<div><span style=\"color: rgb(64, 64, 64);\">Atrial septal\ndefect</span>{{c1::ES}}<br></div><div><br></div><div>Which is loudest in midsystole or later?&nbsp;{{c1::<span style=\"color: rgb(64, 64, 64);\">Ejection\nsystolic</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Crescendo-decrescendo</span>}}</div><div><br></div><div><u>Diastolic</u></div><div><br></div><div>What conditions are associated with early diastolic murmur?</div><div>{{c1::•<span style=\"color: rgb(64, 64, 64);\">Aortic\nregurgitation</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Pulmonary\nregurgitation</span>}}<br></div><div><br></div><div>What condition is associated with a mid diastolic murmur?</div><div>{{c1::mitral stenosis}}<br></div><div><br></div><div><u>Continuous</u></div><div><u><br></u></div><div><u>What</u>&nbsp;conditions are associated with a continuous murmur</div><div><br></div><div>{{c1::•<span style=\"color: rgb(64, 64, 64);\">Patent ductus\narteriosus</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Arteriovenous\nfistula</span>}}<br></div><div><br></div><div>What is a pericardial friction rub</div><div>{{c1::<b>grating, to-and-fro sound produced by friction of the heart against the pericardium</b>}}</div>",
+                        ""
+                    ],
+                    "guid": "KGQOR%[it~",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What does&nbsp;<span style=\"color: rgb(117, 17, 74);\">Site of maximal intensity of a murmur mean ?</span><div>{{c1::•<span style=\"color: rgb(64, 64, 64);\">The place on\nthe precordium where the murmur is heard most easily</span>}}</div><div><br></div><div><div>•<span style=\"color: rgb(64, 64, 64);\">Loudness is\nnot always representative of the severity of a valve lesion (</span><span style=\"color: rgb(64, 64, 64);\">e.g.</span><span style=\"color: rgb(64, 64, 64);\"> in severe\nvalve stenosis murmur may be soft).</span></div></div>",
+                        "<img src=\"paste-4f6d52f6ed9f9ad77ecd3bec8a002b08b3333e05.jpg\">"
+                    ],
+                    "guid": "Pw40*fvl1i",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Dynamic Moanoeuvres-</b><div><b><br></b></div><div>What murmurs become louder on inspiration?{{c1::Right sided murmurs}}</div><div><br></div><div>What murmurs become louder on expiration?{{c1::Left sided murmurs}}<br></div><div><br></div><div>What would you be looking for if you get the patient to lean forward and breath all the way out?{{c1::aortic regurgitation}}</div><div><br></div><div>What would you be looking for if you got patient s to roll to left side?{{c1::Mitral Stenosis}}</div><div><br></div><div>What do you get patient to do in valsalva?{{c1::•<span style=\"color: rgb(64, 64, 64);\">Ask patient to\npinch nose with fingers, close mouth and breath out hard so as to pop eardrums.</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Listen over\nleft sternal edge</span>}}</div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "k9eE*eA|f?",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "13554d9e-1266-11ec-bda3-90fa31f2f58d",
+    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 1000
+            },
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 1,
+                "perDay": 500
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "3.1::316 Med Prof",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        }
+    ],
+    "notes": []
+}
